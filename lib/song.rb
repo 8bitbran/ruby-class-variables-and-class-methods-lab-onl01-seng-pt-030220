@@ -33,4 +33,5 @@ class Song
         genre_hash[element] = 1
     end 
   end 
+    genre_hash
 end
